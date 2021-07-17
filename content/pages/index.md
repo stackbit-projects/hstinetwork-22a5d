@@ -8,8 +8,6 @@ sections:
       Prestamos serviços em redes de computadores, servidores, cloud, automação,
       segurança, cabeamento estruturado.
     actions:
-      - url: /pricing
-        style: primary
       - label: Learn More
         url: /features
         style: secondary
