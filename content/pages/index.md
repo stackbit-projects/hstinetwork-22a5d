@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: HSTI Network
     subtitle: Soluções para prestadores de serviços em T.I
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Prestamos serviços em redes de computadores, servidores, cloud, automação,
+      segurança, cabeamento estruturado.
     actions:
       - label: Try Free
         url: /pricing
