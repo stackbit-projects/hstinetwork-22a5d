@@ -54,7 +54,7 @@ sections:
   - type: features_section
     title: Serviços
     features:
-      - title: The Big Title For the FeatureC
+      - title: Configuração
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
