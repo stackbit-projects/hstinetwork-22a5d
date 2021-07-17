@@ -136,7 +136,7 @@
             },
             {
                 "label": "Vimeo",
-                "url": "https://vimeo.com/",
+                "url": "https://vimeo.com",
                 "style": "link",
                 "has_icon": true,
                 "icon": "vimeo",
