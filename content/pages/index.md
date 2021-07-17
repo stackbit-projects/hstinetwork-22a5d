@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Vendor
     subtitle: Especializados e Certificados
     align: center
     grid_items:
