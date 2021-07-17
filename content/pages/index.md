@@ -21,7 +21,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Image Grid
-    subtitle: especializados e certificados
+    subtitle: Especializados e certificados
     align: center
     grid_items:
       - image: images/logo-1.svg
