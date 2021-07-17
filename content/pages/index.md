@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: HSTI Network
-    subtitle: Soluções para prestadores de serviços
+    subtitle: Soluções para prestadores de serviços em T.I
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
