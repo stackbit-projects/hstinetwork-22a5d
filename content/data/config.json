@@ -46,7 +46,7 @@
                 "style": "link"
             },
             {
-                "label": "Orçamento",
+                "label": "OrçamentoOrçamento",
                 "url": "/pricing",
                 "style": "primary"
             }
